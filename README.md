@@ -32,7 +32,9 @@ Questo componente personalizzato include:
 3.  Riavvia Home Assistant.
 
 ## ⚙️ Configurazione
-Usa la tua configurazione Telegram esistente nel file `configuration.yaml`. **Non è necessario alcun cambiamento** se provieni dall'integrazione ufficiale.
+
+### 1. Primo Avvio (Migrazione)
+Se provieni da una vecchia installazione, mantieni inizialmente la tua configurazione nel file `configuration.yaml` per il primo riavvio.
 
 ```yaml
 telegram_bot:
@@ -40,3 +42,6 @@ telegram_bot:
     api_key: "LA_TUA_CHIAVE_API_TELEGRAM"
     allowed_chat_ids:
       - 123456789
+```
+### 2. Pulizia
+Dopo il riavvio, Home Assistant importerà automaticamente queste impostazioni nell'interfaccia grafica (Impostazioni > Dispositivi e Servizi). Se ricevi una notifica che ti chiede di rimuovere la configurazione Telegram dal file YAML, puoi cancellare (o commentare) tranquillamente quelle righe nel configuration.yaml. Il bot è ora configurato e gestito tramite l'interfaccia UI.
