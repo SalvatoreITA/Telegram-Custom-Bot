@@ -39,7 +39,7 @@ In sintesi: **Installalo una volta e dimenticatene.** Finché le API di Telegram
 
 ### Opzione 2: Manuale
 1.  Scarica questo repository.
-2.  Copia la cartella `custom_components/telegram_bot` dentro la cartella `/config/custom_components/` del tuo Home Assistant.
+2.  Copia la cartella `telegram_bot` dentro la cartella `/config/custom_components/` del tuo Home Assistant.
 3.  Riavvia Home Assistant.
 
 ## ⚙️ Configurazione
