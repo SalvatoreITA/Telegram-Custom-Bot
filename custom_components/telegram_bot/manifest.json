@@ -1,7 +1,7 @@
 {
   "domain": "telegram_bot",
   "name": "Telegram bot",
-  "codeowners": ["@hanwg"],
+  "codeowners": ["@SalvatoreITA"],
   "config_flow": true,
   "dependencies": ["http"],
   "documentation": "https://github.com/SalvatoreITA/Telegram-Custom-Boot",
