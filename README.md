@@ -1,4 +1,4 @@
-# Telegram Custom Bot (Fix per Home Assistant 2026.2+)
+# Telegram Custom Bot
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/hacs/integration)
 
