@@ -1,0 +1,13 @@
+{
+  "domain": "telegram_bot",
+  "name": "Telegram bot",
+  "codeowners": ["@hanwg"],
+  "config_flow": true,
+  "dependencies": ["http"],
+  "documentation": "https://github.com/SalvatoreITA/Telegram-Custom-Boot",
+  "iot_class": "cloud_push",
+  "loggers": ["telegram"],
+  "quality_scale": "silver",
+  "requirements": [],
+  "version": "2025.12.0"
+}
