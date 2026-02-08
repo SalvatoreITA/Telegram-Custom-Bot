@@ -8,7 +8,7 @@
 [![maintainer](https://img.shields.io/badge/maintainer-Salvatore_Lentini_--_DomHouse.it-green.svg)](https://www.domhouse.it)
 
 <div align="center">
-  <img src="https://github.com/SalvatoreITA/Telegram-Custom/blob/main/icon.png?raw=true" alt="Logo" width="150">
+  <img src="https://github.com/SalvatoreITA/Telegram-Custom-Bot/blob/main/icon.png?raw=true" alt="Logo" width="150">
 </div>
 
 Una versione personalizzata dell'integrazione standard **Telegram Bot** di Home Assistant, corretta per funzionare con **Home Assistant 2026.2** (Core) e successivi, che utilizzano **Python 3.13**.
