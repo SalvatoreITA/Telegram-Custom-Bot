@@ -28,13 +28,14 @@ In sintesi: **Installalo una volta e dimenticatene.** Finché le API di Telegram
 
 ## 💾 Installazione
 
-### Opzione 1: Tramite HACS (Consigliato)
-1.  Apri **HACS** > **Frontend**.
-2.  Clicca sul menu (3 puntini in alto a destra) > **Repository personalizzati**.
-3.  Aggiungi l'URL: `https://github.com/SalvatoreITA/telegram-custom-bot`
-4.  Categoria: **Lovelace**.
+### Metodo 1: Tramite HACS (Consigliato)
+1.  Apri **HACS** nel tuo Home Assistant.
+2.  Vai su **Integrazioni** > **Menu (3 puntini in alto a destra)** > **Repository personalizzati**.
+3.  Incolla l'URL di questo repository GitHub. 
+    https://github.com/SalvatoreITA/telegram-custom-bot
+4.  Nella categoria seleziona **Integrazione**.
 5.  Clicca su **Aggiungi** e poi su **Scarica**.
-6.  Ricarica il browser.
+6.  **Riavvia Home Assistant**.
 
 ### Opzione 2: Manuale
 1.  Scarica questo repository.
