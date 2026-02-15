@@ -57,7 +57,7 @@ telegram_bot:
 ### 2. Cleanup
 After rebooting, Home Assistant will automatically import these settings into the GUI (Settings > Devices & Services). If you receive a notification asking you to remove the Telegram configuration from the YAML file, you can safely delete (or comment out) those lines in configuration.yaml. The bot is now configured and managed via the UI.
 
-## ⚠️ Disclaimer (Esclusione di Responsabilità)
+## ⚠️ Disclaimer
 This project is an independent and unofficial integration. It is not affiliated, associated, authorized, sponsored, or in any way officially connected with **Telegram** or any of its subsidiaries or affiliates.
 
 The official Telegram website can be found at: [https://telegram.org](https://telegram.org).
